@@ -10,3 +10,8 @@ Grab emotes from twitchemotes.com
 3. Get channel `[id]` from `https://twitchemotes.com/channels/[id]`
 
 4. Use something like `node ./scrap.js [id]`
+
+
+## Info :
+I created this in half an hour and this is my first Node project app ever. Bugs are inevitable.
+For now all images are saved as `.gif` because I am lazy
