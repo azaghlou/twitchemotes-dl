@@ -14,4 +14,5 @@ Grab emotes from twitchemotes.com
 
 ## Info :
 I created this in half an hour and this is my first Node project app ever. Bugs are inevitable.
+
 For now all images are saved as `.gif` because I am lazy
