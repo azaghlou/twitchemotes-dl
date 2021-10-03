@@ -1,0 +1,31 @@
+{
+  "name": "twitchemotes-dl",
+  "version": "1.0.0",
+  "description": "Grab emotes from twitchemotes.com",
+  "main": "scrap.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "colors": "^1.4.0",
+    "image-type": "^4.1.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./scrap.js 21587971"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azaghlou/twitchemotes-dl.git"
+  },
+  "keywords": [
+    "Twitch",
+    "Scrapping"
+  ],
+  "author": "Hadmos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azaghlou/twitchemotes-dl/issues"
+  },
+  "homepage": "https://github.com/azaghlou/twitchemotes-dl#readme"
+}
